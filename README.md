@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -💻 Software Engineer @ RedX <br>
 -⚙️  B.S in Software Engineering; Certificate in Web Development - BYU-Idaho 2021
 
+Old Profile: https://github.com/bryansilva10
+
 ### 🚀 My Skills:
 <table style="width:100%">
   <tr>
