@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -💻 Software Engineer @ RedX <br>
--⚙️  B.S in Software Engineering; Certificate in Web Development - BYU-Idaho 2021
+-⚙️  B.S in Software Engineering - BYU-Idaho 2021
 
 Old Profile: https://github.com/bryansilva10
 
@@ -47,13 +47,13 @@ Old Profile: https://github.com/bryansilva10
     <td><img src="https://img.shields.io/badge/typescript-%23DD0031.svg?&style=for-the-badge&logo=typescript&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/vuex-%234FC08D.svg?&style=for-the-badge&logo=vuex.js&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/vuex-%234FC08D.svg?&style=for-the-badge&logo=vuex&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/nestjs-%23CB3837.svg?&style=for-the-badge&logo=nestjs&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/react-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white"></td>
     <td></td>
     <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>
     <td></td>
