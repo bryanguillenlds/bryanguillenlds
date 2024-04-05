@@ -60,5 +60,7 @@ Old Profile: https://github.com/bryansilva10
   </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanguillenlds&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤝🏽 Let's Connect!
 <a href="https://www.linkedin.com/in/bryanguillen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/BryanGuillenS"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
