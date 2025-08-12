@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--💻 Software Engineer @ RedX <br>
+-💻 Software Engineer | Actively looking for a job <br>
 -⚙️  B.S in Software Engineering - BYU-Idaho 2021
 
 Old Profile: https://github.com/bryansilva10
